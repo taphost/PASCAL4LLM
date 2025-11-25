@@ -30,7 +30,7 @@ automation should start from `API.md`.
 ## Project structure
 
 ```
-.
+PASCAL4LLM/
 |- README.md
 |- API.md
 |- MAP.md
