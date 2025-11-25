@@ -31,41 +31,41 @@ automation should start from `API.md`.
 
 ```
 PASCAL4LLM/
-|- README.md
-|- API.md
-|- MAP.md
-|- CORE-COMPATIBILITY.md
-|- compilers/
-|  |- FPC-REFERENCE.md
-|  |- TP7-REFERENCE.md
-|  \- MODES-COMPARISON.md
-|- topics/
-|  |- STRINGS-IO.md
-|  |- FILE-HANDLING.md
-|  |- MEMORY-MODEL.md
-|  |- GRAPHICS-BGI.md
-|  |- ASSEMBLY.md
-|  |- DIRECTIVES-PORTABILITY.md
-|  |- PORTING-STRATEGIES.md
-|  |- DEBUGGING-PROFILING.md
-|  \- REGRESSION-CHECKLIST.md
-|- examples/
-|  \- BASIC-PATTERNS.md
-|- reference/
-|  |- TP7-UNITS-CHEATSHEET.md
-|  |- TP7-RTL-SUMMARY.md
-|  |- FPC-UNITS-CHEATSHEET.md
-|  |- FPC-RTL-FCL-SUMMARY.md
-|  |- UNITS-REFERENCE.md
-|  |- ERRORS-RUNTIME.md
-|  |- GLOSSARY.md
-|  \- DOSBOX-CONFIGURATION.md
-|- legacy/
-|  |- TP3-REFERENCE.md
-|  |- TP5-REFERENCE.md
-|  |- COMPATIBILITY-MATRIX.md
-|  \- COMMAND-LINE-CHEATSHEET.md
-\- LICENSE
+ |- README.md
+ |- API.md
+ |- MAP.md
+ |- CORE-COMPATIBILITY.md
+ |- compilers/
+ |  |- FPC-REFERENCE.md
+ |  |- TP7-REFERENCE.md
+ |  \- MODES-COMPARISON.md
+ |- topics/
+ |  |- STRINGS-IO.md
+ |  |- FILE-HANDLING.md
+ |  |- MEMORY-MODEL.md
+ |  |- GRAPHICS-BGI.md
+ |  |- ASSEMBLY.md
+ |  |- DIRECTIVES-PORTABILITY.md
+ |  |- PORTING-STRATEGIES.md
+ |  |- DEBUGGING-PROFILING.md
+ |  \- REGRESSION-CHECKLIST.md
+ |- examples/
+ |  \- BASIC-PATTERNS.md
+ |- reference/
+ |  |- TP7-UNITS-CHEATSHEET.md
+ |  |- TP7-RTL-SUMMARY.md
+ |  |- FPC-UNITS-CHEATSHEET.md
+ |  |- FPC-RTL-FCL-SUMMARY.md
+ |  |- UNITS-REFERENCE.md
+ |  |- ERRORS-RUNTIME.md
+ |  |- GLOSSARY.md
+ |  \- DOSBOX-CONFIGURATION.md
+ |- legacy/
+ |  |- TP3-REFERENCE.md
+ |  |- TP5-REFERENCE.md
+ |  |- COMPATIBILITY-MATRIX.md
+ |  \- COMMAND-LINE-CHEATSHEET.md
+ \- LICENSE
 ```
 
 ## Quick usage (humans)
