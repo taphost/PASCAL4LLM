@@ -1,8 +1,13 @@
 # Pascal4LLM: Turbo & Free Pascal docs 
 
 Documentation set to help humans and tools produce Turbo Pascal 7.0 and Free
-Pascal 3.2.2 (TP mode) code. This README is for human readers. LLMs and
+Pascal 3.2.2 code. This README is for human readers. LLMs and
 automation should start from `API.md`.
+
+## Scope and Coverage
+- **Focus**: Command-line compilers (tpc, fpc) - no IDE coverage
+- **Targets**: TP7 DOS, FPC (TP mode + modern features, cross-platform)
+- **Excluded**: Third-party libs (SDL_BGI, WinBGI, etc.)
 
 ## Start here
 - LLM/tooling entry point: `API.md`
@@ -20,7 +25,7 @@ automation should start from `API.md`.
 - `reference/`: cheat sheets, RTL/FCL summaries, glossary, runtime errors,
   DOSBox configuration.
 - `legacy/`: TP3/TP5 reference and compatibility matrix.
-- Core files: `CORE-COMPATIBILITY.md`, `MAP.md`.
+- Core files: `CORE-COMPATIBILITY.md`, `MAP.md`, `LICENSE`.
 
 ## Project structure
 
@@ -93,7 +98,14 @@ automation should start from `API.md`.
 - Use relative links and note when behavior needs verification.
 - Align cheat sheets with official TP7/FPC docs when updating.
 
-## License
-- MIT License - See individual files for details.
 
----
+## Credits
+This documentation builds on the work of:
+- Niklaus Wirth (Pascal language)
+- Borland International (Turbo Pascal, Anders Hejlsberg and team)
+- Free Pascal team (Florian Klämpfl and contributors)
+- The Pascal community
+
+## License
+
+- License: MIT, see `LICENSE`.
