@@ -25,7 +25,7 @@ automation should start from `API.md`.
 - `reference/`: cheat sheets, RTL/FCL summaries, glossary, runtime errors,
   DOSBox configuration.
 - `legacy/`: TP3/TP5 reference and compatibility matrix.
-- Core files: `CORE-COMPATIBILITY.md`, `MAP.md`, `LICENSE`.
+- Core files: `CORE-COMPATIBILITY.md`, `MAP.md`.
 
 ## Project structure
 
