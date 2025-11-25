@@ -93,6 +93,5 @@ automation should start from `API.md`.
 - Use relative links and note when behavior needs verification.
 - Align cheat sheets with official TP7/FPC docs when updating.
 
-## Versioning and license
-- Target compilers: Turbo Pascal 7.0 and Free Pascal 3.2.2 (TP mode).
-- License: MIT, see `LICENSE`.
+## License
+- MIT License - See individual files for details.
