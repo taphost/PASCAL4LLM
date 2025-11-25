@@ -95,3 +95,5 @@ automation should start from `API.md`.
 
 ## License
 - MIT License - See individual files for details.
+
+---
